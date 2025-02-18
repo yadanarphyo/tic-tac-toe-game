@@ -17,7 +17,7 @@ sudo apt update
 ```
 - Install .NET SDK
 ```sh
-sudo apt install -y dotnet-sdk-8.0  # Change version if needed
+sudo apt install -y dotnet-sdk-9.0  # Change version if needed
 ```
 
 ## 2. Verify Installation
